@@ -1,7 +1,12 @@
-Goals : 
-1 - custom CRM
-2 - addons sekolah
+# Goals
 
-link youtube to check how its work : 
-1 - https://youtu.be/4TSxjqJPDbw
-2 - https://youtu.be/M0muF8htvR8
+1. Custom CRM
+2. Addons Sekolah
+
+## Resources
+
+### Video Tutorials
+
+1. [How it works - Part 1](https://youtu.be/4TSxjqJPDbw)
+2. [How it works - Part 2](https://youtu.be/M0muF8htvR8)
+
